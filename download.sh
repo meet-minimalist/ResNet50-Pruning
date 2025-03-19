@@ -1,0 +1,1 @@
+wget https://raw.githubusercontent.com/WZMIAOMIAO/deep-learning-for-image-processing/refs/heads/master/pytorch_classification/mini_imagenet/imagenet_class_index.json -O imagenet_class_index.json
